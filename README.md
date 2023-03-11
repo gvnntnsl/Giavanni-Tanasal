@@ -22,7 +22,7 @@
 			color: maroon;
 		}
 		{
-		font-family: 'Georgia', sans-serif;
+		font-family: 'Georgia',serif;
 		}
 	</style>
 </head>
