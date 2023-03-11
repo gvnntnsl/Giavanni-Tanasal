@@ -10,7 +10,7 @@
 		.container {
 			display: flex;
 			align-items: center;
-			height: 50vh;
+			height: 60vh;
 		}
 		.title {
 			margin-left: 20px;
