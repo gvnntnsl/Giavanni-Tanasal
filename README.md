@@ -11,7 +11,7 @@
         color: black;
 	font-family: 'Helvetica',serif;	
 	font-size: 20px;
-	margin-right: 10px;
+	align-items: center;
     }
 
     button:focus {
@@ -23,7 +23,7 @@
     }
 </style>
 
-<button style="background-color: white; onclick="this.style.color='#962102'">About Me</button>
+<button style="background-color: white"; onclick="this.style.color='#962102'">About Me</button>
 															    
 </header>
 <head>
