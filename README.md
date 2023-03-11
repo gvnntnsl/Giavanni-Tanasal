@@ -4,11 +4,11 @@
 <style>
    button {
 	style="float:right;
-        background-color: transparent;
+        background-color: black;
         border: none;
         cursor: pointer;
         text-decoration: underline;
-        color: black;
+        color: white;
 	font-family: 'Helvetica',serif;	
 	font-size: 20px;
 	align-items: center;
@@ -23,7 +23,7 @@
     }
 </style>
 
-<button onclick="this.style.backgroundColor = 'transparent'">Click me!</button>
+<button onclick="this.style.backgroundColor = 'black'">Click me!</button>
 															    
 </header>
 <head>
