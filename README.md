@@ -9,7 +9,7 @@
 		body {
 			margin: 0;
 			padding: 0;
-			font-family: 'Georgia',serif;
+			
 		}
 		.container {
 			display: flex;
@@ -17,6 +17,7 @@
 			height: 60vh;
 		}
 		.title {
+			font-family: 'Georgia',serif;	
 			margin-left: 20px;
 			font-size: 48px;
 			color: maroon;
