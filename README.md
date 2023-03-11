@@ -1,5 +1,6 @@
 <html>
 <head>
+	<link href="https://fonts.googleapis.com/css?family=Georgia:400,700" rel="stylesheet">
 	<title>My Website</title>
 	<style>
 		body {
@@ -15,6 +16,9 @@
 			margin-left: 20px;
 			font-size: 48px;
 			color: maroon;
+		}
+		{
+		font-family: 'Georgia', sans-serif;
 		}
 	</style>
 </head>
