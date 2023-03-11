@@ -4,7 +4,7 @@
 <style>
    button {
 	style="float:right;
-        background-color: inherit !important;
+        background-color: white !important;
         border: none;
         cursor: pointer;
         text-decoration: underline;
@@ -50,7 +50,7 @@
 </head>
 <body>
 	<div class="container">
-		<h1 class="title"><p>Hi, I am Gia, an <span style="color: #962102;"><b>ex-auditor</b></span>,a data-driven digital marketer, and a data analyst</p> </h1>
+		<h1 class="title"><p>Hi, I am Gia, an <span style="color: #962102;"><b>ex-auditor</b></span>, a data-driven digital marketer, and a wanderer</p> </h1>
 	</div>
 </body>
 </html>
