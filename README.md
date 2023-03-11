@@ -11,7 +11,7 @@
         color: black;
 	font-family: 'Helvetica',serif;	
 	font-size: 20px;
-	margin-right: 20px;
+	margin-right: 10px;
     }
 
     button:focus {
@@ -44,13 +44,13 @@
 			font-family: 'Helvetica',serif;	
 			margin-left: 20px;
 			font-size: 48px;
-			color: #962102;
+			color: black;
 		}
 	</style>
 </head>
 <body>
 	<div class="container">
-		<h1 class="title">Hi, I am Gia, an ex-auditor,<p>a data-driven digital marketer, and a data analyst</p> </h1>
+		<h1 class="title">Hi, I am Gia, an <span style="color: #962102;"><b>ex-auditor</b></span,<p>a data-driven digital marketer, and a data analyst</p> </h1>
 	</div>
 </body>
 </html>
