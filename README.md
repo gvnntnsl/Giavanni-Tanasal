@@ -4,7 +4,7 @@
 <style>
    button {
 	style="float:right;
-        background-color: white !important;
+        background-color: transparent;
         border: none;
         cursor: pointer;
         text-decoration: underline;
@@ -23,7 +23,7 @@
     }
 </style>
 
-<button onclick="this.style.color='#962102'">About Me</button>
+<button style="background-color: white; onclick="this.style.color='#962102'">About Me</button>
 															    
 </header>
 <head>
