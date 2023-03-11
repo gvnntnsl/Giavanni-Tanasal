@@ -1,6 +1,10 @@
 <html>
+<header>
+  <h1>About Me</h1>
+  <button>About Me</button>
+</header>
 <head>
-	<link href="https://fonts.googleapis.com/css?family=Georgia:400,700" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css?family=Georgia">
 	<title>My Website</title>
 	<style>
 		body {
