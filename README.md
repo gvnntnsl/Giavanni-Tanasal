@@ -1,13 +1,17 @@
 <html>
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Helvetica">
 <header>
 <style>
    button {
 	style="float:right;
-        background-color: transparent;
+        background-color: white;
         border: none;
         cursor: pointer;
         text-decoration: underline;
         color: black;
+	font-family: 'Helvetica',serif;	
+	font-size: 20px;
+	margin-right: 20px;
     }
 
     button:focus {
@@ -19,11 +23,11 @@
     }
 </style>
 
-<button onclick="this.style.color='#FA5300'">About Me</button>
+<button onclick="this.style.color='#962102'">About Me</button>
 															    
 </header>
 <head>
-	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Helvetica">
+	
 	<title>My Website</title>
 	<style>
 		body {
