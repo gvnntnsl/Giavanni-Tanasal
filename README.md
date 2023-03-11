@@ -1,9 +1,29 @@
 <html>
 <header>
-  <button style="float:right;">About Me</button>
+<style>
+   button {
+	style="float:right;
+        background-color: transparent;
+        border: none;
+        cursor: pointer;
+        text-decoration: underline;
+        color: black;
+    }
+
+    button:focus {
+        outline: none;
+    }
+
+    button:hover {
+        color: #962102;
+    }
+</style>
+
+<button onclick="this.style.color='#FA5300'">About Me</button>
+															    
 </header>
 <head>
-	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Georgia">
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Helvetica">
 	<title>My Website</title>
 	<style>
 		body {
@@ -17,10 +37,10 @@
 			height: 60vh;
 		}
 		.title {
-			font-family: 'Georgia',serif;	
+			font-family: 'Helvetica',serif;	
 			margin-left: 20px;
 			font-size: 48px;
-			color: maroon;
+			color: #962102;
 		}
 	</style>
 </head>
