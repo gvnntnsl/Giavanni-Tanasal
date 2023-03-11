@@ -9,6 +9,7 @@
 		body {
 			margin: 0;
 			padding: 0;
+			font-family: 'Georgia',serif;
 		}
 		.container {
 			display: flex;
@@ -19,9 +20,6 @@
 			margin-left: 20px;
 			font-size: 48px;
 			color: maroon;
-		}
-		{
-		font-family: 'Georgia',serif;
 		}
 	</style>
 </head>
