@@ -23,7 +23,7 @@
     }
 </style>
 
-<button style="background-color: white"; onclick="this.style.color='#962102'">About Me</button>
+<button onclick="this.style.backgroundColor = 'transparent'">Click me!</button>
 															    
 </header>
 <head>
