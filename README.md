@@ -4,7 +4,7 @@
 <style>
    button {
 	style="float:right;
-        background-color: transparent !important;
+        background-color: inherit !important;
         border: none;
         cursor: pointer;
         text-decoration: underline;
