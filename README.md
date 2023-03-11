@@ -16,14 +16,24 @@
                 align-items: center;
                 color: white;
                 font-size: 4rem;
-            }
+		<style>
+  body {
+    margin: 50px;
+  }
+ 
+  h1 {
+    margin: auto;
+    width: 50%;
+    text-align: center;
+  }
+
         </style>
     </head>
     <body>
         <h1><p style="color: maroon;">Welcome to my website!</p></h1>
         <style>
 		body {
-			font-size: 24px;
+			font-size: 100px;
 		}
 	</style>
         <p>This is a paragraph of text.</p>
