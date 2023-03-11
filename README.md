@@ -1,6 +1,6 @@
 <html>
 <head>
-	<title>Hi, I'm Gia</title>
+	<title>My Website</title>
 	<style>
 		body {
 			margin: 0;
@@ -20,7 +20,7 @@
 </head>
 <body>
 	<div class="container">
-		<h1 class="title">Title</h1>
+		<h1 class="title">Hi, I am Gia, an ex-auditor,<p>a data-driven digital marketer, and a data analyst</p> </h1>
 	</div>
 </body>
 </html>
