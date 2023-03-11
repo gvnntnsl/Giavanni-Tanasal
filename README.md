@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
     <head>
      <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -22,6 +21,11 @@
     </head>
     <body>
         <h1><p style="color: maroon;">Welcome to my website!</p></h1>
+        <style>
+		body {
+			font-size: 24px;
+		}
+	</style>
         <p>This is a paragraph of text.</p>
     </body>
 </html>
