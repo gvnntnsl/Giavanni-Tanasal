@@ -1,30 +1,8 @@
 <html>
 	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Helvetica">
 <header>
-<style>
-   button {
-	style="float:right;
-        background-color: black;
-        border: none;
-        cursor: pointer;
-        text-decoration: underline;
-        color: white;
-	font-family: 'Helvetica',serif;	
-	font-size: 20px;
-	align-items: center;
-    }
-
-    button:focus {
-        outline: none;
-    }
-
-    button:hover {
-        color: #962102;
-    }
-</style>
-
-<button onclick="this.style.backgroundColor = 'black'">Click me!</button>
-															    
+<a href="#section1">Go to Section 1</a>
+	
 </header>
 <head>
 	
@@ -52,5 +30,7 @@
 	<div class="container">
 		<h1 class="title"><p>Hi, I am Gia, an <span style="color: #962102;"><b>ex-auditor</b></span>, a data-driven digital marketer, and a wanderer</p> </h1>
 	</div>
+	
+	<h2 id="section1">Section 1</h2
 </body>
 </html>
