@@ -2,7 +2,7 @@
 	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Helvetica">
 <header>
 	
-<a href="#section1">Section 1</a>
+<a href="#page2.html">Section 1</a>
 	
 </header>
 <head>
