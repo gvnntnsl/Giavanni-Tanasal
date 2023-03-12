@@ -32,9 +32,7 @@
 		<h1 class="title"><p>Hi, I am Gia, an <span style="color: #962102;"><b>ex-auditor</b></span>, a data-driven digital marketer, and a wanderer</p> </h1>
 	</div>
 	
-	<div>
-	<h2 id="section1">Section 1</h2>
-	</div>
+	
 </body>
 </html>
 
